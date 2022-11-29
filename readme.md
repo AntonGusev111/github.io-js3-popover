@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/9sn7anfgrx8s8pb6/branch/master?svg=true)](https://ci.appveyor.com/project/AntonGusev111/github-io-js3-popover/branch/master)

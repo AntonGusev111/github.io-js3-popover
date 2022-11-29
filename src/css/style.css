@@ -1,0 +1,44 @@
+.btn{
+    display: inline-block;
+    margin: 20%;
+    background-color: pink;
+    border-color: pink;
+}
+
+.popover{
+    position: absolute;
+    border: 1px solid rgba(0,0,0,.2);
+    border-radius: 0.3rem;
+    width: 200px;
+    height: 80px;
+    z-index: -1;
+    top:0px;
+    left: 0px;
+}
+.popovertitle{
+    padding: 5%;
+    border-bottom: 1px solid;
+    background-color:beige;
+}
+
+.popovertext{
+    border-radius: 0.3rem;
+    position: relative;
+    font-size: 13px;
+    padding: 0.28rem;
+    z-index: 99;
+    background-color: white;
+
+}
+
+.popoverArroy{
+    border: solid;
+    width: 10px;
+    height: 10px;
+    border: 1px solid rgba(0,0,0,.2);
+    margin-left: 45%;
+    transform: rotate(45deg);
+    background-color: white;
+    margin-top: -3%;
+    z-index: 0;
+}
