@@ -1,7 +1,7 @@
 {
   "name": "homework5",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "start": "live-server src",
     "build": "webpack --mode production",
