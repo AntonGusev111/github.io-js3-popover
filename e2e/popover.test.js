@@ -17,7 +17,7 @@ describe ('Start', ()=>{
     test('page test', async () =>{
         await page.goto('http://127.0.0.1:8080');
 
-        await page.waitForTimeout('button');
+        await page.waitForTimeout('.btn');
     });
 
     test('show popover', async () =>{
